@@ -1,12 +1,17 @@
-# Copied directly from Modrinth description.
-
-
 # Quick explanation (The mini-modlist below only indicates the 'big' ones that you will use, while not having all of the mods here.)
 🔥Based on [Adrenaline](https://modrinth.com/modpack/adrenaline), meaning it'll be snappy and fast while still having quality client-side mods for nerds.
 
 😊Completely client-side, meaning this can be used on any server! Make sure some of the mods are allowed though. (Such as Tweakeroo.)
 
-🤞I'll try to keep it as updated as possible! I will be mostly using mods only from Modrinth, but some mods such as [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo), [MiniHud](https://www.curseforge.com/minecraft/mc-mods/minihud) and [Yeetus Experimentus](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus) have to be downloaded from Curseforge. If any of these transition into Modrinth, I will immedeatly switch.
+🤞I'll try to keep it as updated as possible! I will be mostly using mods only from Modrinth, but some mods have to be downloaded from CurseForge. If any of these mods transition to Modrinth, I'll switch them the moment I know I am able to.
+
+ [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
+
+[MiniHud](https://www.curseforge.com/minecraft/mc-mods/minihud)
+
+[Yeetus Experimentus](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus)
+
+[Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 
 ⚙️Pre-configured, while still allowing easy modification for your own tastes. I encourage you to set your keybinds, and edit stuff to your liking. (Such as EssentialGUI)
 
