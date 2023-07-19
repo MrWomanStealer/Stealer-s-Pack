@@ -1,5 +1,5 @@
-# Quick explanation
-🔥Based on Adrenaline, meaning it'll be snappy and fast while still having quality client-side mods for nerds.
+# Quick explanation (The mini-modlist below only indicates the 'big' ones that you will use, while not having all of the mods here.)
+🔥Based on [Adrenaline](https://modrinth.com/modpack/adrenaline), meaning it'll be snappy and fast while still having quality client-side mods for nerds.
 
 😊Completely client-side, meaning this can be used on any server! Make sure some of the mods are allowed though. (Such as Tweakeroo.)
 
@@ -11,13 +11,18 @@
 
 # 🔥Optimization Mods
 Based on Adrenaline. Please refer to it to see what it has!
+
 (Has the 'essential' optimization mods, such as Sodium.)
 
-# 🤓Nerdy Mods, which provide useful data and information while still having useful things for non-nerds.
-TODO
+# 🤓Nerdy Mods, which provide useful data and information while still having functionality.
+E.g Tweakeroo and Tweakermore for your shenanigans.
+
+E.g EssentialGUI, BetterF3 and MiniHud, which give useful data.
 
 # ⚙️Quality Of Life Mods
-TODO
+E.g Essential and Borderless mining. While not nerdy or for optimizations, these can make your Minecraft life better.
+
+E.g Plasmo voice, allowing you to chat with your friends who also have it, or if the server has it.
 
 # Misc information
 
@@ -27,4 +32,4 @@ This modpack is based on  _Adrenaline_, credit isn't required but I still feel l
 
 (No it isn't called stealers pack just bc i 'stole' adrenaline)
 
-## Taken from the modrinth description.
+## Directly copied from Modrinth.
