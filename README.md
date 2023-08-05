@@ -1,4 +1,7 @@
-# Quick explanation (The mini-modlist below only indicates the 'big' ones that you will use, while not having all of the mods here.)
+
+![A picture of a Minecraft title saying Stealers Pack.](https://github.com/MrWomanStealer/Stealer-s-Pack/blob/main/minecraft_title.png?raw=true)
+
+# Quick rundown of the modpack
 🔥Based on [Adrenaline](https://modrinth.com/modpack/adrenaline), meaning it'll be snappy and fast while still having quality client-side mods for nerds.
 
 😊Completely client-side, meaning this can be used on any server! Make sure some of the mods are allowed though. (Such as Tweakeroo or Bedrock Miner.)
@@ -10,8 +13,6 @@
  [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
 
 [MiniHud](https://www.curseforge.com/minecraft/mc-mods/minihud)
-
-[Yeetus Experimentus](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus)
 
 [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 
@@ -34,7 +35,7 @@ E.g EssentialGUI, BetterF3 and MiniHud, which give useful data.
 # ⚙️Quality Of Life Mods
 E.g Essential and Borderless mining. While not nerdy or for optimizations, these can make your Minecraft life better.
 
-E.g Plasmo voice, allowing you to chat with your friends who also have it, or if the server has it.
+E.g Simple Voice Chat, for speaking with your friends VIA proximity, if the server has it.
 
 # Misc information
 
