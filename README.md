@@ -1,3 +1,5 @@
+# Might be different from the modrinth one. As of 17/08/2023, it's newer. Might be outdated soon.
+
 # A not-so-simple modpack for Minecraft nerds.
 
 ---
@@ -12,12 +14,12 @@
 I try updating the modpack as soon as updates get delivered, but at times some incompabilities happen which requires me to delay updates. (Such as Sodium updating, but Indium hasn't been updated.)
 
 
-# Simple Voice Chat, Essential and e4mc
-The modpack has three mods that makes playing with your friends easier.
+# Simple Voice Chat and e4mc
+The modpack has two mods that makes playing with your friends easier.
 
 [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) is a mod that, well, simply allows you to chat in-game with friends. If the server has it and other players have it, and you too, you can simply chat with your friends in proximity.
-Don't have a server? Try [Essential](https://modrinth.com/mod/essential) or [e4mc](https://modrinth.com/mod/e4mc). Why would you choose between two of these? To simply put it, Essential requires others to also have the mod. But, e4mc does not. If you have a friend who is running pure vanilla and you are running this modpack, you should use e4mc. If your friend has Essential or is running this modpack, use Essential.
-
+Don't have a server? Try [e4mc](https://modrinth.com/mod/e4mc).  e4mc allows you to host a game yourself, with no GUIs or fancy stuff. You host LAN, click on a chat message that pops up and you get a copyable link.
+(Essential was removed for a few reasons. You are free to add it back if you like.)
 
 
 # Completely Client Sided
@@ -33,16 +35,18 @@ That's pretty much it. There are some pictures in the gallery section about the 
 
 # Notes
 
-The modpack has three (four) mods that are from CurseForge. The reason for this is that these mods fit this modpack perfectly, but they aren't on modrinth. Installing the modpack may prompt you to download these modpacks from external sources. These mods include:
+The modpack has four (five) mods that are from CurseForge. The reason for this is that these mods fit this modpack perfectly, but they aren't on modrinth. Installing the modpack may prompt you to download these modpacks from external sources. These mods include:
 
- [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
+[Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)
+
+[Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
 
 [MiniHud](https://www.curseforge.com/minecraft/mc-mods/minihud)
 
 [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
 
-And also [MaLiLib, but that's just so you can use MiniHud or Tweakeroo.](https://www.curseforge.com/minecraft/mc-mods/malilib)
-
+And also [MaLiLib, but that's just so you can use MiniHud, Litematica or Tweakeroo.](https://www.curseforge.com/minecraft/mc-mods/malilib)
+[Here's a tutorial for litematica.](https://youtu.be/aMZSXAKZzpo?t=134) Feel free to skip a bit into the future, I just skipped it to after installation.
 
 ---
 
